@@ -1,5 +1,5 @@
 -- Author: John Vitali, jvitali2020@my.fit.edu <br>
--- Author: Jeremy Zapata, <br>
+-- Author: Jeremy Zapata, jzapata2019@my.fit.edu <br>
 -- Course: CSE 4250, Fall 2023 <br>
 -- Project: Proj3, Can you hear me now? <br>
 -- Language implementation: GNAT Community 2021 (20210519-103) <br>
