@@ -1,4 +1,9 @@
--- hear.adb
+-- Author: John Vitali, jvitali2020@my.fit.edu
+-- Author: Jeremy Zapata, jzapata2019@my.fit.edu
+-- Course: CSE 4250, Fall 2023
+-- Project: Proj3, Can you hear me now?
+-- Language implementation: GNAT Community 2021 (20210519-103)
+
 with Ada.Text_IO;
 with Graph;
 with Ada.Containers.Doubly_Linked_Lists;
